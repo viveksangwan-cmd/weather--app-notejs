@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "postman-request": "^2.88.1-postman.30"
+    "postman-request": "^2.88.1-postman.30",
+    "yargs": "^17.3.0"
   }
 }
